@@ -1,0 +1,205 @@
+{
+    "thong_so_ky_thuat": {
+        "man_hinh": {
+            "cong_nghe_mh": "OLED",
+            "do_phan_giai": "2532 x 1170 pixels",
+            "ty_le_mh": 6.1,
+            "kinh_cam_ung": "Kính cường lực Oleophobic (ion cường lực)"
+        },
+        "camera_sau": {
+            "do_phan_giai": "Camera góc rộng: 12MP, f/1.6, Camera góc siêu rộng: 12MP, ƒ/2.4",
+            "quay_phim": [
+                {
+                    "chat_luong": "4K 2160p@30fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@30fps"
+                },
+                {
+                    "chat_luong": "FullHD 1080p@60fps"
+                }
+                
+            ],
+            "den_flash": "3 đèn LED 2 tông màu",
+            "tinh_nang": [
+                {
+                    "name": "Chạm lấy nét"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Quay chậm (Slow Motion)"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                },
+                {
+                    "name": "Chạm lấy nét"
+                },
+                {
+                    "name": "Toàn cảnh (Panorama)"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "Góc rộng (Wide)"
+                },
+                {
+                    "name": "Góc siêu rộng (Ultrawide)"
+                }
+            ]
+        },
+        "camera_truoc": {
+            "do_phan_giai": "12MP, f/2.2",
+            "tinh_nang": [
+                {
+                    "name": "Chạm lấy nét"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Quay chậm (Slow Motion)"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                },
+                {
+                    "name": "Chạm lấy nét"
+                },
+                {
+                    "name": "Toàn cảnh (Panorama)"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "Góc rộng (Wide)"
+                },
+                {
+                    "name": "Góc siêu rộng (Ultrawide)"
+                }
+            ]
+        },
+        "HDH_CPU": {
+           
+            "HDH": "iOS 15",
+            "CPU": "Apple A15",
+            "CPU_speed":"3.22 GHz",
+            "GPU":"GPU 5 nh\u00e2n"
+        },
+        "luu_tru": {
+            "RAM": "4 GB",
+            "bo_nho_trong": "128 GB",
+            "the_nho": "không",
+            "bo_nho_con_lai":null
+        },
+        "ket_noi": {
+            "mang_mobile": "Hỗ trợ 5G",
+            "SIM": "1 Nano SIM & 1 eSIM",
+            "wifi": [
+                {
+                    "name": "Wi‑Fi 6 (802.11ax)"
+                },
+                {
+                    "name": "Dual-band (2.4 GHz/5 GHz)"
+                },
+                {
+                    "name": "Wi-Fi hotspot"
+                }
+            ],
+            "GPS": [
+                {
+                    "name": "A-GPS"
+                },
+                {
+                    "name": "GLONASS"
+                },
+                {
+                    "name": "Galileo"
+                },
+                {
+                    "name": " QZSS"
+                },
+                {
+                    "name": "BeiDou"
+                }
+            ],
+            "bluetooth": [
+                {
+                    "name": "LE"
+                },
+                {
+                    "name": "v5.0"
+                }
+            ],
+            "cong_sac": "Lightning",
+            "jack_tai_nghe": "Lightning",
+            "ket_noi_khac": [
+                {
+                    "name": "OTG"
+                },
+                {
+                    "name": "NFC"
+                }
+            ]
+        },
+        "thiet_ke_trong_luong": {
+            "thiet_ke": "Nguyên khối",
+            "chat_lieu": "Kính & Kim loại",
+            "kich_thuoc": "146,7 x 71,5 x 7,65mm",
+            "khoi_luong": "174 g"
+        },
+        "pin": {
+            "loai": "Li-Ion",
+            "dung_luong": "3240 mAh",
+            "cong_nghe": [
+                {
+                    "name": "Sạc pin nhanh 20W"
+                },
+                {
+                    "name": "Sạc không dây"
+                },
+                {
+                    "name": "Sạc ngược không dây 15W"
+                },
+                {
+                    "name": "Tiết kiệm pin"
+                }
+            ]
+        },
+        "tien_ich": {
+            "bao_mat": [
+                {
+                    "name": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+                }
+            ],
+            "tinh_nang_khac": [
+                {
+                    "name": "Apple Pay"
+                },
+                {
+                    "name": "Kháng nước, kháng bụi"
+                },
+                {
+                    "name": "Âm thanh Dolby Audio"
+                }
+            ],
+            "ghi_am": "Có (microphone chuyên dụng chống ồn)",
+            "xem_phim":[{"name":"H.264(MPEG4-AVC)"}],"nghe_nhac":[{"name":"FLAC AAC Mp3"}]
+            
+        }
+        
+    },
+    "thong_tin_khac": {
+        "thoi_diem_ra_mat": "09/2021"
+    }
+}

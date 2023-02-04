@@ -1,0 +1,176 @@
+{
+    "thong_so_ky_thuat": {
+        "man_hinh": {
+            "cong_nghe_mh": "Super Retina XDR OLED",
+            "do_phan_giai": "2778 x 1284 pixel",
+            "ty_le_mh": 6.7,
+            "kinh_cam_ung": "Kính cường lực Oleophobic (ion cường lực)",
+            "tinh_nang_man_hinh": "458 ppi, HDR, True Tone, độ sáng 1200 nits , màn hình chống bám vân tay, 2,000,000:1",
+            "tan_so_quet": "60Hz"
+        },
+        "camera_sau": {
+            "do_phan_giai": "Camera chính 12MP, 26 mm, ƒ/1.5 Camera góc siêu rộng 12MP, 13 mm, ƒ/2.4, 120°",
+            "quay_phim": [
+                {
+                    "quay_video": "4K / Full HD 60FPS 720p 30FPS Slow-mo Full HD 240FPS"
+                }
+            ],
+            "den_flash": "3 đèn LED 2 tông màu",
+            "tinh_nang": [
+                {
+                    "name": "Chạm lấy nét"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                },
+                {
+                    "name": "Quay chậm (Slow Motion)"
+                },
+                {
+                    "name": "Toàn cảnh (Panorama)"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Nhãn dán (AR Stickers)"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                }
+            ]
+        },
+        "camera_truoc": {
+            "do_phan_giai": "12MP",
+            "tinh_nang": [
+                {
+                    "name": "Chạm lấy nét"
+                },
+                {
+                    "name": "HDR"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                },
+                {
+                    "name": "Quay chậm (Slow Motion)"
+                },
+                {
+                    "name": "Toàn cảnh (Panorama)"
+                },
+                {
+                    "name": "Tự động lấy nét (AF)"
+                },
+                {
+                    "name": "Xóa phông"
+                },
+                {
+                    "name": "Nhãn dán (AR Stickers)"
+                },
+                {
+                    "name": "Nhận diện khuôn mặt"
+                }
+            ]
+        },
+        "HDH_CPU": {
+            "Chipser": "Apple A16 Bionic 6 nhân",
+            "Loai_CPU": " 6 nhân ",
+            "CPU": "5 nhân GPU"
+        },
+        "luu_tru": {
+            "RAM": "6 GB",
+            "bo_nho_trong": "256 GB",
+            "the_nho": ""
+        },
+        "ket_noi": {
+            "mang_mobile": "Hỗ trợ 5G",
+            "SIM": "1 Nano SIM & 1 eSIM",
+            "wifi": [
+                {
+                    "name": "Wi‑Fi 6"
+                }
+            ],
+            "GPS": [
+                {
+                    "name": "A-GPS"
+                },
+                {
+                    "name": "GLONASS"
+                },
+                {
+                    "name": "Galileo"
+                },
+                {
+                    "name": " QZSS"
+                },
+                {
+                    "name": "BeiDou"
+                }
+            ],
+            "bluetooth": [
+                {
+                    "name": "v5.3"
+                }
+            ],
+            "cong_sac": "Lightning",
+            "jack_tai_nghe": "Lightning",
+            "ket_noi_khac": [
+                {
+                    "name": "OTG"
+                },
+                {
+                    "name": "NFC"
+                }
+            ]
+        },
+        "thiet_ke_trong_luong": {
+            "thiet_ke": "Nguyên khối",
+            "chat_lieu": "Kính & Kim loại",
+            "kich_thuoc": "Dọc 160.8 x Ngang 78.1 x Dày 7.8mm",
+            "khoi_luong": "203gr"
+        },
+        "pin": {
+            "loai": "Li-Ion",
+            "dung_luong": "4,325mAh",
+            "cong_nghe": [
+                {
+                    "name": "Sạc pin nhanh 20W"
+                },
+                {
+                    "name": "Sạc không dây chuẩn Magsafe 15w"
+                },
+                {
+                    "name": "Sạc không dây chuẩn Qi 7.5W"
+                },
+                {
+                    "name": "Tiết kiệm pin"
+                }
+            ]
+        },
+        "tien_ich": {
+            "bao_mat": [
+                {
+                    "name": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi"
+                }
+            ],
+            "tinh_nang_khac": [
+                {
+                    "name": "Apple Pay"
+                },
+                {
+                    "name": "Kháng nước, kháng bụi"
+                }
+            ],
+            "ghi_am": "Có (microphone chuyên dụng chống ồn)"
+        }
+    },
+    "thong_tin_khac": {
+        "thoi_diem_ra_mat": "09/2022"
+    }
+}
